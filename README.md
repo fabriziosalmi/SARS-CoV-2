@@ -1,5 +1,5 @@
 # SARS-CoV-2
-Every resource I found useful about this issue.
+Read more..
 
 ## Links
 
